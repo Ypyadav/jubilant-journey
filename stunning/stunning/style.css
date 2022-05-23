@@ -1,0 +1,67 @@
+.header{
+    background-color: #FE5D20 #8071D0 ;
+    padding: 6px;
+    display: flex;
+    
+    justify-content: space-between;
+    align-items: center;
+}
+.headbar{
+    display: flex;
+}
+.headbar p{
+    padding: 18px;
+    
+
+}
+.stimage{
+    width: 130px;
+}
+.account{
+    border-radius: 20px ;
+    padding: 15px;
+    color:#A389CC;
+    background-color: #FFD8DB;
+    border-style: none;
+   
+}
+p:hover{
+   background-color:whitesmoke;
+   text-decoration: 3px solid underline;
+}
+.card{
+    margin-top: 100px;
+}
+ div .up-down{
+    width: 40px;
+    padding-top: 20px;
+}
+.new-acc{
+    border-radius: 20px;
+    padding: 15px;
+    border-style: none;
+    background-color: #5243C0;
+    color: #ffffff;
+    
+}
+.dmm:hover{
+    background-color:whitesmoke;
+    
+}
+.active{
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.landing-page{
+    margin-top: 50px;
+    margin-left: 10%;
+
+}
+.main{
+    display: flex;
+}
+
+.dmm{
+    box-shadow: 8px 5px 5px 5px lightgray;
+}
+
